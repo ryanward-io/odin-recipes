@@ -1,0 +1,1 @@
+Minisite built as part of the odin webdev course I'm doing with a friend.
